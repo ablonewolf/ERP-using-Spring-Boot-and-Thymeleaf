@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.arka99.springboot.finalerp.ThymeleafdemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.009 s - in com.arka99.springboot.finalerp.ThymeleafdemoApplicationTests
